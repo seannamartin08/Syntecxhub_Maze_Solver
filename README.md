@@ -44,7 +44,7 @@ The algorithm always explores the node with the lowest **f(n)** value.
 
 ```
 Syntecxhub_Maze_Solver/
-│── main.py
+│── a_maze_solver_visualization.py
 │── README.md
 │── requirements.txt
 ```
